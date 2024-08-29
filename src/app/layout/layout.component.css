@@ -1,0 +1,6 @@
+html, body, #root, app-root, main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
